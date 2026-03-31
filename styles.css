@@ -1,0 +1,14 @@
+#display {
+    background-color: black;
+    width: 400px;
+    height: 50px;
+    margin-bottom: 10px;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 30px;
+    padding: 5px;
+    box-sizing: border-box;
+}
